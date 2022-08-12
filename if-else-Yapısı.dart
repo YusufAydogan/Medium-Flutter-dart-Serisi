@@ -1,22 +1,22 @@
 // Burada sadece if-else kullandık
 if(şart){
-//Yapılması istenilen işlemler
+//Yapılacak işlemler
 }else{
-//Yapılması istenilen işlemler}
+//Yapılacak işlemler}
 
 
   
 // Burada da else if yapısını kullandık.
 
 if(şart){
-//Yapılması istenilen işlemler
+//Yapılacak işlemler
 }
 else if(if şartı sağlanmıyorsa bakılması istenilen şart){
-//Yapılması istenile işlemler
+//Yapılacak işlemler
 }
 else if(eğer diğer şartlar sağlanmıyorsa bakılması istenilen şart){
-//Yapılması istenilen işlemler
+//Yapılacak işlemler
 }
 else{
-//Yapılması istenile işlemler
+//Yapılacak işlemler
 }

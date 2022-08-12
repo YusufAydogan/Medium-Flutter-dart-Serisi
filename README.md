@@ -1,1 +1,1 @@
-##"Yusuf Aydoğan" Medium hesabındaki Flutter (Dart) serisinin anlatımları ve örneklendirmelerini içerir.
+## "Yusuf Aydoğan" Medium hesabındaki Flutter (Dart) serisinin anlatımları ve örneklendirmelerini içerir.

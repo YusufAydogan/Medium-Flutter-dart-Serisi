@@ -1,5 +1,5 @@
 ## "Yusuf Aydoğan" Medium hesabındaki Flutter (Dart) serisinin anlatımları ve örneklendirmelerini içerir.
-https://medium.com/@MrCodeEngineer
+İçeriklerin Yayınlandığı Medium Hesabı: https://medium.com/@MrCodeEngineer
 
 Seri bitene kadar tüm bölümler sırasıyla buraya eklenecektir.
 ------------------------------------------------------------

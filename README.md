@@ -22,4 +22,10 @@ https://medium.com/@MrCodeEngineer/flutter-dart-section-5-loops-in-dart-8dcb3999
 ### 6.Bölüm: Koleksiyon Yapıları - Lists/Maps/Sets
 https://medium.com/@MrCodeEngineer/flutter-dart-section-6-collection-structures-d377c2715f41
 
+### 7.Bölüm: Dartta Fonksiyonlar
+https://medium.com/@MrCodeEngineer/flutter-dart-section-7-functions-in-dart-e41edf0aebed
+
+### 8.Bölüm: Nesne Yönelimli Programlama - Sınıf Yapısı ve Metotlar
+https://medium.com/@MrCodeEngineer/flutter-dart-section-8-object-oriented-programming-class-structure-and-methods-6442d0f1920e
+
 --------------------------------------------------------------
